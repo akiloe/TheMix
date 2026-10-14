@@ -22,7 +22,7 @@
 - Seuls ces fichiers changent lors d'une mise à jour : le contenu de `docs/`, `sources/fond/` et, plus tard, le fichier de données. Toute autre modification attend l'accord explicite d'Akil.
 - Le site complet est **généré par le script** : on modifie les données, on relance le script, on ne retouche pas le HTML à la main.
 - Pas d'image générée par IA ; visuels fournis uniquement.
-- Polices : Big Shoulders Display (800, 900) et Figtree (400, 600, 800), licence SIL OFL, intégrées en base64.
+- Polices : Big Shoulders Display (800, 900) et Figtree (400, 600), licence SIL OFL, intégrées en base64.
 - Fond (décision d'Akil du 14/10/2026) : gris `#E5E5E5` avec grain 5 % (mode Normal) et texture 7 % (mode Produit), composés par `scripts/compose_fond.py` à partir de `sources/charte/`. Le rendu moyen est un peu plus foncé que `#E5E5E5`, comme sur les posts.
 - Couleurs : texte `#0D0D0D` et `#262626` (jamais `#6B6B6B` pour du texte sur ce fond : contraste insuffisant), violet `#6B35D4` (cadres, liens) et `#7B3FE4` (pill, texte blanc). Pas de vert.
 - Pill : `border-radius: 16px`, padding `0.08em 0.07em 0.01em` ; au moins 12 px entre le haut de la pill et la ligne au-dessus, obtenus en augmentant l'interligne. Cadre outline : 3 px `#6B35D4`, `border-radius: 32px`. Pas de filet horizontal.
