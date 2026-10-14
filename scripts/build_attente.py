@@ -73,7 +73,7 @@ main{{max-width:560px;margin:0 auto;min-height:100vh;min-height:100svh;
   padding:48px 16px 28px;display:flex;flex-direction:column}}
 .logo{{display:block;width:min(200px,50vw);height:auto}}
 h1{{font-family:'Big Shoulders Display',sans-serif;font-weight:900;text-transform:uppercase;
-  font-size:clamp(44px,14vw,84px);line-height:1.16;letter-spacing:.005em;margin:56px 0 48px}}
+  font-size:clamp(44px,14vw,84px);line-height:calc(1.16em + 10px);letter-spacing:.005em;margin:56px 0 48px}}
 h1 .nw{{white-space:nowrap}}
 .pill{{background:var(--pill);color:#fff;border-radius:16px;padding:.08em .07em .01em;
   white-space:nowrap;-webkit-box-decoration-break:clone;box-decoration-break:clone}}
