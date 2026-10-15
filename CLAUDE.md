@@ -5,6 +5,8 @@
 ## Ce que contient le dépôt
 - `docs/` : le site, publié tel quel par GitHub Pages (branche `main`, dossier `/docs`).
   - `index.html` : page autonome (polices et logo intégrés en base64). Seule exception aux appels externes : le formulaire d'inscription à la newsletter et son pop-up, fournis par Systeme.io (script collé tel quel), ajoutés ou modifiés uniquement avec l'accord explicite d'Akil. Aucun autre appel externe, aucun traceur. Si ce script dépose un cookie soumis à consentement, il ne se charge qu'après acceptation, via un bandeau validé par Akil.
+    Pop-up newsletter actuel (choix d'Akil du 15/10/2026) : fenêtre maison (`<dialog>`), sans script externe ni stockage, qui renvoie vers la page d'inscription `https://app.themixfr.com/newsletter` ; ouverture une fois par chargement de page après 10 s, et au clic sur le bouton « Newsletter ».
+  - `assets/` : polices (avec leurs licences SIL OFL) et fond, copiés par `build_attente.py`. Les pages Systeme.io d'`app.themixfr.com` les chargent depuis themixfr.com : ne pas les supprimer ni les renommer.
   - `CNAME` : `themixfr.com`. Ne pas le modifier ni le supprimer, sinon le domaine se détache.
   - `.nojekyll` : désactive Jekyll. Ne pas le supprimer.
 - `CLAUDE.md` : ce fichier, hors du site publié.
