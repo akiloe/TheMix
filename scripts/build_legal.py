@@ -116,9 +116,9 @@ CONFIDENTIALITE = f"""
   <h2>Ce que nous collectons et pourquoi</h2>
   <div class="carte">
     <h3>Newsletter</h3>
-    <p><strong>Données :</strong> ton adresse e-mail, la date de ton inscription et de ta confirmation.</p>
+    <p><strong>Données :</strong> ton adresse e-mail et la date de ton inscription.</p>
     <p><strong>Pourquoi :</strong> t'envoyer la newsletter (guides gratuits, annonce des événements, sélection de contenus).</p>
-    <p><strong>Base légale :</strong> ton consentement, confirmé par le lien reçu par e-mail (double opt-in). Tu peux le retirer à tout moment avec le lien de désinscription présent dans chaque e-mail.</p>
+    <p><strong>Base légale :</strong> ton consentement, donné en t'inscrivant sur la page de la newsletter. Tu peux le retirer à tout moment avec le lien de désinscription présent dans chaque e-mail.</p>
     <p><strong>Durée :</strong> jusqu'à ta désinscription. Si tu n'as interagi avec aucun e-mail pendant 3 ans, nous te demandons si tu veux rester inscrit, puis nous supprimons ton adresse sans réponse de ta part.</p>
   </div>
   <div class="carte">
