@@ -83,7 +83,7 @@ MENTIONS = f"""
   <h2>Éditeur</h2>
   <p>Le site themixfr.com et les pages app.themixfr.com sont édités par <strong>{SOCIETE}</strong>, société par actions simplifiée au capital de 1 000 €, immatriculée au RCS de Paris sous le numéro 106 584 808, dont le siège social est situé {SIEGE}.</p>
   <p>The Mix est une marque exploitée par {SOCIETE}.</p>
-  <p>E-mail : {CONTACT}<br>Téléphone : [[numéro de téléphone de l'éditeur]]<br>TVA intracommunautaire : FR47106584808</p>
+  <p>E-mail : {CONTACT}<br>Téléphone : <a href="tel:+33612640712">06 12 64 07 12</a><br>TVA intracommunautaire : FR47106584808</p>
 
   <h2>Directeur de la publication</h2>
   <p>Vincent Audou, président de {SOCIETE}.</p>
@@ -91,11 +91,11 @@ MENTIONS = f"""
   <h2>Hébergement</h2>
   <div class="carte">
     <h3>Site themixfr.com</h3>
-    <p>GitHub Pages, service de GitHub, Inc.<br>88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis<br>Téléphone : [[téléphone de GitHub, Inc.]]</p>
+    <p>GitHub Pages, service de GitHub, Inc.<br>88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis<br>Téléphone : +1 877 448 4820</p>
   </div>
   <div class="carte">
     <h3>Pages app.themixfr.com (inscription, formations)</h3>
-    <p>Systeme.io, service d'ITACWT Limited<br>2 Cruise Park Rise, Tyrrelstown, Dublin 15, Irlande<br>Serveurs Amazon Web Services situés en Irlande<br>Téléphone : [[téléphone d'ITACWT Limited]]</p>
+    <p>Systeme.io, service d'ITACWT Limited<br>2 Cruise Park Rise, Tyrrelstown, Dublin 15, Irlande<br>Serveurs Amazon Web Services situés en Irlande<br>Téléphone : non communiqué par ITACWT Limited (contact par le support de Systeme.io)</p>
   </div>
 
   <h2>Propriété intellectuelle</h2>
@@ -156,7 +156,7 @@ CONFIDENTIALITE = f"""
 
   <h2>Cookies</h2>
   <p><strong>Sur themixfr.com :</strong> aucun cookie, aucun traceur, aucune mesure d'audience. Le pop-up de la newsletter ne mémorise rien. L'hébergeur, GitHub, enregistre l'adresse IP des visiteurs dans ses journaux techniques, selon sa propre politique de confidentialité ; The Mix n'a pas accès à ces journaux.</p>
-  <p><strong>Sur app.themixfr.com</strong> (pages Systeme.io) : Systeme.io dépose un cookie nommé « v », d'une durée de 10 ans, dont la finalité est [[finalité du cookie « v » à obtenir auprès de Systeme.io]].</p>
+  <p><strong>Sur app.themixfr.com</strong> (pages Systeme.io) : Systeme.io dépose un cookie nommé « v », qui contient un identifiant unique et dure 10 ans. Systeme.io n'en publie pas la finalité.</p>
 
   <h2>Tes droits</h2>
   <p>Tu peux demander l'accès à tes données, leur rectification, leur effacement, leur portabilité ou la limitation de leur traitement, t'opposer à leur traitement, retirer ton consentement à tout moment et définir des directives sur leur sort après ton décès. Écris-nous à {CONTACT} : nous répondons dans un délai d'un mois.</p>

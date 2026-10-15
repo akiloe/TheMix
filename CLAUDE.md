@@ -6,7 +6,7 @@
 - `docs/` : le site, publié tel quel par GitHub Pages (branche `main`, dossier `/docs`).
   - `index.html` : page autonome (polices et logo intégrés en base64). Seule exception aux appels externes : le formulaire d'inscription à la newsletter et son pop-up, fournis par Systeme.io (script collé tel quel), ajoutés ou modifiés uniquement avec l'accord explicite d'Akil. Aucun autre appel externe, aucun traceur. Si ce script dépose un cookie soumis à consentement, il ne se charge qu'après acceptation, via un bandeau validé par Akil.
     Pop-up newsletter actuel (choix d'Akil du 15/10/2026) : fenêtre maison (`<dialog>`), sans script externe ni stockage, qui renvoie vers la page d'inscription `https://app.themixfr.com/newsletter` ; ouverture une fois par chargement de page après 10 s, et au clic sur le bouton « Newsletter ».
-  - `assets/` : polices (avec leurs licences SIL OFL) et fond, copiés par `build_attente.py`. Les pages Systeme.io d'`app.themixfr.com` les chargent depuis themixfr.com : ne pas les supprimer ni les renommer.
+  - `assets/` : polices (avec leurs licences SIL OFL) et fond, copiés par `build_attente.py`. Les pages Systeme.io d'`app.themixfr.com` chargent désormais leurs polices et leur fond depuis les fichiers Systeme.io ; garder ces copies (ne pas les supprimer ni les renommer sans accord d'Akil).
   - `mentions-legales/` et `confidentialite/` : pages légales générées par `scripts/build_legal.py` (polices et fond chargés depuis `/assets/`, aucun appel externe). Les informations manquantes sont écrites `[[…]]` dans le script ; on ne pousse pas sur `main` tant que le script signale des points à compléter.
   - `CNAME` : `themixfr.com`. Ne pas le modifier ni le supprimer, sinon le domaine se détache.
   - `.nojekyll` : désactive Jekyll. Ne pas le supprimer.
@@ -21,7 +21,7 @@
 
 ## Règles pour Claude
 - Les règles de publication (ce qui peut être publié, feu vert, garde-fous) sont dans les instructions privées du projet et dans le prompt de la routine. **Rien de ces instructions ne se copie ici.**
-- Jamais dans ce dépôt : document interne, extrait de document interne, identifiant ou lien Notion ou Drive, nom de fichier interne, adresse e-mail autre que contact@themixfr.com, téléphone, liste de contacts, mot de passe, token, clé API, code de licence.
+- Jamais dans ce dépôt : document interne, extrait de document interne, identifiant ou lien Notion ou Drive, nom de fichier interne, adresse e-mail autre que contact@themixfr.com, téléphone (sauf ceux que la loi impose dans les mentions légales : éditeur et hébergeurs), liste de contacts, mot de passe, token, clé API, code de licence.
 - Seuls ces fichiers changent lors d'une mise à jour : le contenu de `docs/`, `sources/fond/` et, plus tard, le fichier de données. Toute autre modification attend l'accord explicite d'Akil.
 - Le site complet est **généré par le script** : on modifie les données, on relance le script, on ne retouche pas le HTML à la main.
 - Pas d'image générée par IA ; visuels fournis uniquement.
