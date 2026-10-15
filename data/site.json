@@ -1,0 +1,89 @@
+{
+  "_lisez_moi": "Données du site (aperçu). Lues par scripts/build_site.py, qui écrit docs/apercu/. Un champ \"a_valider\": true signale un texte provisoire ; \"a_verifier\": true, une information trouvée en ligne à confirmer ; \"exemple\": true, un contenu factice.",
+
+  "site": {
+    "nom": "The Mix",
+    "url_base": "/apercu/",
+    "bandeau_apercu": "Aperçu : contenus provisoires",
+    "newsletter_url": "https://app.themixfr.com/newsletter",
+    "editeur": "Vinsaki SAS",
+    "contact": "contact@themixfr.com",
+    "reseaux": [
+      {"nom": "Instagram", "url": "https://www.instagram.com/themixfr/", "handle": "@themixfr"},
+      {"nom": "TikTok", "url": "https://www.tiktok.com/@themixfr", "handle": "@themixfr"},
+      {"nom": "YouTube", "url": "https://www.youtube.com/@themixfr", "handle": "@themixfr"}
+    ]
+  },
+
+  "entete": {
+    "accroche": "Le média du son",
+    "accroche_pill": "son",
+    "phrase": "Comment les hits sont fabriqués, expliqué par ceux qui les font."
+  },
+
+  "evenement": {
+    "afficher_exemple": true,
+    "vide": "Prochain événement bientôt annoncé : inscris-toi à la newsletter pour être prévenu.",
+    "fiche": {
+      "exemple": true,
+      "titre": "[Titre de l'événement : exemple]",
+      "type": "[Type : exemple]",
+      "debut": "2026-11-26T19:00",
+      "lieu": "[Lieu : exemple]",
+      "duree_min": 90,
+      "prix": 0,
+      "intervenants": [
+        {"nom": "[Intervenant : exemple]", "credits": "[crédits : exemple]"},
+        {"nom": "[Intervenant : exemple]", "credits": "[crédits : exemple]"}
+      ],
+      "resume": "[Résumé de l'événement : exemple.] Deux ou trois phrases qui disent de quoi on parle, pour qui, et ce qu'on repart avec.",
+      "inscription_url": "",
+      "visuel": null
+    }
+  },
+
+  "formations": {
+    "titre_section": "Formations",
+    "promesse": "Le pont entre le home studio et l'industrie : verrouille tes bases, débloque ton niveau.",
+    "pour_qui": {
+      "texte": "Pour toi si tu débutes ou si tu as déjà un peu de pratique, et que tu veux consolider tes connaissances. Tu n'es pas encore pro, tu veux peut-être le devenir, mais il te manque des bases. Si tu es déjà pro, ces formations ne sont pas pour toi.",
+      "a_valider": true
+    },
+    "bouton": "Découvrir la formation",
+    "mention": "Ouverture des ventes mi-novembre",
+    "liste": [
+      {"titre": "La Méthode The Mix : FL Studio", "logiciel": "FL Studio", "modules": 11, "duree": "4 h 30", "avec": ["Anis", "Akil"], "url": "", "visuel": null},
+      {"titre": "La Méthode The Mix : Pro Tools", "logiciel": "Pro Tools", "modules": 11, "duree": "4 h 30", "avec": ["Anis", "Akil"], "url": "", "visuel": null}
+    ]
+  },
+
+  "newsletter": {
+    "titre": "La newsletter",
+    "titre_pill": "The Mix",
+    "texte": "Les guides gratuits, l'annonce des prochains événements et une sélection de nos contenus, directement dans ta boîte mail.",
+    "bouton": "Recevoir la newsletter",
+    "mention": "L'inscription se fait sur app.themixfr.com. Tu peux te désinscrire à tout moment."
+  },
+
+  "podcasts": {
+    "titre_section": "Podcasts",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLDYtTZJIs9nZLToGi5mFThoAsMZDj99rB",
+    "mention_cookies": "La lecture charge YouTube, qui dépose ses propres cookies.",
+    "episodes": [
+      {"id": "LkAMhY6htDw", "duree": "1:21:56", "titre": "AKM & Vincenzo : L'alchimie derrière les plus grands sons du rap FR (Niska, Djadja & Dinaz, Werenoi)", "vignette": "LkAMhY6htDw.webp"},
+      {"id": "EMWU8Fa0-Rg", "duree": "1:50:56", "titre": "Dr. Yaro & Yoyo L'ingé (\"Minimum ça\", \"Simba\", Naza, Keblack, Youssoupha...) TheMixPodcast#3", "vignette": "EMWU8Fa0-Rg.webp"},
+      {"id": "g6ZrB7iAql4", "duree": "2:12:44", "titre": "MartiMix & Chris HardLevel (PLK, Vald, Guy2Bezbar, Dinos, Angèle...) TheMixPodcast#2", "vignette": "g6ZrB7iAql4.webp", "_note": "Pas de maxresdefault sur YouTube (404) : vignette sddefault 640x480, bandes noires retirées (640x360)."},
+      {"id": "qbeN2W4Jzts", "duree": "1:26:56", "titre": "Fred Nlandu & Adam Monroe (Nekfeu, SCH, Aya Nakamura, Kery James, Yorssy...) TheMixPodcast#1", "vignette": "qbeN2W4Jzts.webp"}
+    ]
+  },
+
+  "articles": {
+    "titre_section": "Articles",
+    "liste": []
+  },
+
+  "equipe": {
+    "titre_section": "Équipe",
+    "membres": []
+  }
+}
