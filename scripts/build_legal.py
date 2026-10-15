@@ -151,10 +151,10 @@ CONFIDENTIALITE = f"""
   <p>Instagram (Meta) traite aussi les données de ton compte pour son propre compte, selon sa propre politique.</p>
 
   <h2>Transferts hors de l'Union européenne</h2>
-  <p>ManyChat et GitHub sont établis aux États-Unis. Ces transferts sont encadrés par [[base légale des transferts : Data Privacy Framework ou clauses contractuelles types, à vérifier pour chaque prestataire]].</p>
+  <p>ManyChat et GitHub sont établis aux États-Unis. Ces transferts reposent sur le cadre de protection des données UE–États-Unis (« Data Privacy Framework »), reconnu par la Commission européenne le 10 juillet 2023, auquel les deux sociétés ont adhéré.</p>
 
   <h2>Cookies</h2>
-  <p><strong>Sur themixfr.com :</strong> aucun cookie, aucun traceur, aucune mesure d'audience. Le pop-up de la newsletter ne mémorise rien.</p>
+  <p><strong>Sur themixfr.com :</strong> aucun cookie, aucun traceur, aucune mesure d'audience. Le pop-up de la newsletter ne mémorise rien. L'hébergeur, GitHub, enregistre l'adresse IP des visiteurs dans ses journaux techniques, selon sa propre politique de confidentialité ; The Mix n'a pas accès à ces journaux.</p>
   <p><strong>Sur app.themixfr.com</strong> (pages Systeme.io) : Systeme.io dépose un cookie nommé « v », d'une durée de 10 ans, dont la finalité est [[finalité du cookie « v » à obtenir auprès de Systeme.io]].</p>
 
   <h2>Tes droits</h2>
