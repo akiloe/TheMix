@@ -4,7 +4,7 @@
 
 ## Ce que contient le dépôt
 - `docs/` : le site, publié tel quel par GitHub Pages (branche `main`, dossier `/docs`).
-  - `index.html` : page autonome (polices et logo intégrés en base64 ; aucun appel externe, aucun cookie, aucun traceur).
+  - `index.html` : page autonome (polices et logo intégrés en base64). Seule exception aux appels externes : le formulaire d'inscription à la newsletter et son pop-up, fournis par Systeme.io (script collé tel quel), ajoutés ou modifiés uniquement avec l'accord explicite d'Akil. Aucun autre appel externe, aucun traceur. Si ce script dépose un cookie soumis à consentement, il ne se charge qu'après acceptation, via un bandeau validé par Akil.
   - `CNAME` : `themixfr.com`. Ne pas le modifier ni le supprimer, sinon le domaine se détache.
   - `.nojekyll` : désactive Jekyll. Ne pas le supprimer.
 - `CLAUDE.md` : ce fichier, hors du site publié.
