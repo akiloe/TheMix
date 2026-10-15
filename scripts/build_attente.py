@@ -130,12 +130,9 @@ dialog::backdrop{{background:rgba(13,13,13,.55)}}
 .box .go{{display:flex;align-items:center;justify-content:center;min-height:56px;padding:12px 24px;
   border-radius:32px;background:var(--pill);color:#fff;text-decoration:none;font-weight:600;font-size:17px}}
 .box .go:hover{{background:var(--violet)}}
-.box .later{{display:block;margin:12px auto 0;padding:10px 16px;border:0;background:none;
-  font:600 15px 'Figtree',system-ui,sans-serif;color:var(--text);text-decoration:underline;
-  text-underline-offset:2px;cursor:pointer}}
 .box .x{{position:absolute;top:12px;right:12px;width:44px;height:44px;border:0;border-radius:22px;
   background:none;color:var(--ink);font:600 28px/1 'Figtree',system-ui,sans-serif;cursor:pointer}}
-.box .x:hover,.box .later:hover{{background:var(--hover)}}
+.box .x:hover{{background:var(--hover)}}
 .box small{{display:block;margin-top:16px;font-size:13px;line-height:1.5;color:var(--text)}}
 @media (prefers-reduced-motion:reduce){{li a,.cta{{transition:none}}}}
 </style>
@@ -159,7 +156,6 @@ dialog::backdrop{{background:rgba(13,13,13,.55)}}
     <h2 id="nl-titre">La newsletter <span class="nw"><span class="pill">The Mix</span></span></h2>
     <p>Les guides gratuits, l'annonce des prochains événements et une sélection de nos contenus, directement dans ta boîte mail.</p>
     <a class="go" href="{NEWSLETTER_URL}">Recevoir la newsletter</a>
-    <button class="later" type="button" data-close>Plus tard</button>
     <small>L'inscription se fait sur app.themixfr.com, avec une confirmation par <span class="nw">e-mail</span>. Tu peux te désinscrire à tout moment.</small>
   </div>
 </dialog>
