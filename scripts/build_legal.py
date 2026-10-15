@@ -17,7 +17,7 @@ MAJ = "15 octobre 2026"
 
 # ---------------------------------------------------------------- société
 SOCIETE = "Vinsaki SAS"
-SIEGE = "[[adresse complète du siège (numéro et rue)]], 75008 Paris"
+SIEGE = "25 rue de Ponthieu, 75008 Paris"
 CONTACT = '<a href="mailto:contact@themixfr.com">contact@themixfr.com</a>'
 
 CSS = """
@@ -83,7 +83,7 @@ MENTIONS = f"""
   <h2>Éditeur</h2>
   <p>Le site themixfr.com et les pages app.themixfr.com sont édités par <strong>{SOCIETE}</strong>, société par actions simplifiée au capital de 1 000 €, immatriculée au RCS de Paris sous le numéro 106 584 808, dont le siège social est situé {SIEGE}.</p>
   <p>The Mix est une marque exploitée par {SOCIETE}.</p>
-  <p>E-mail : {CONTACT}<br>Téléphone : [[numéro de téléphone de l'éditeur]]<br>TVA intracommunautaire : [[numéro de TVA, si la société en a un]]</p>
+  <p>E-mail : {CONTACT}<br>Téléphone : [[numéro de téléphone de l'éditeur]]<br>TVA intracommunautaire : FR47106584808</p>
 
   <h2>Directeur de la publication</h2>
   <p>Vincent Audou, président de {SOCIETE}.</p>
@@ -130,7 +130,7 @@ CONFIDENTIALITE = f"""
   </div>
   <div class="carte">
     <h3>Achat d'une formation</h3>
-    <p><strong>Données :</strong> tes nom, prénom et adresse e-mail, ta commande et ton accès à la formation. Les données de paiement sont traitées directement par le prestataire de paiement, [[prestataire de paiement]] ; nous n'avons pas accès à ton numéro de carte.</p>
+    <p><strong>Données :</strong> tes nom, prénom et adresse e-mail, ta commande et ton accès à la formation. Les données de paiement sont traitées directement par le prestataire de paiement, Stripe ; nous n'avons pas accès à ton numéro de carte.</p>
     <p><strong>Pourquoi :</strong> traiter ta commande, te donner accès à la formation, établir la facture.</p>
     <p><strong>Base légale :</strong> le contrat de vente, et nos obligations comptables pour les factures.</p>
     <p><strong>Durée :</strong> le temps de ton accès à la formation, puis 3 ans ; 10 ans pour les factures.</p>
@@ -147,11 +147,12 @@ CONFIDENTIALITE = f"""
     <li><strong>ManyChat</strong> (ManyChat, Inc., États-Unis) : messages privés Instagram.</li>
     <li><strong>IONOS</strong> (IONOS SE, Allemagne) : messagerie contact@themixfr.com.</li>
     <li><strong>GitHub</strong> (GitHub, Inc., États-Unis) : hébergement du site themixfr.com.</li>
+    <li><strong>Stripe</strong> (Stripe Payments Europe, Limited, Irlande) : paiement des formations.</li>
   </ul>
   <p>Instagram (Meta) traite aussi les données de ton compte pour son propre compte, selon sa propre politique.</p>
 
   <h2>Transferts hors de l'Union européenne</h2>
-  <p>ManyChat et GitHub sont établis aux États-Unis. Ces transferts reposent sur le cadre de protection des données UE–États-Unis (« Data Privacy Framework »), reconnu par la Commission européenne le 10 juillet 2023, auquel les deux sociétés ont adhéré.</p>
+  <p>ManyChat et GitHub sont établis aux États-Unis. Ces transferts reposent sur le cadre de protection des données UE–États-Unis (« Data Privacy Framework »), reconnu par la Commission européenne le 10 juillet 2023, auquel les deux sociétés ont adhéré. Stripe, LLC, société américaine du groupe Stripe, adhère au même cadre pour les données reçues de l'Union européenne.</p>
 
   <h2>Cookies</h2>
   <p><strong>Sur themixfr.com :</strong> aucun cookie, aucun traceur, aucune mesure d'audience. Le pop-up de la newsletter ne mémorise rien. L'hébergeur, GitHub, enregistre l'adresse IP des visiteurs dans ses journaux techniques, selon sa propre politique de confidentialité ; The Mix n'a pas accès à ces journaux.</p>
