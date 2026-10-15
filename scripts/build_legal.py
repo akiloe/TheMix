@@ -155,7 +155,7 @@ CONFIDENTIALITE = f"""
   <p>ManyChat et GitHub sont établis aux États-Unis. Ces transferts reposent sur le cadre de protection des données UE–États-Unis (« Data Privacy Framework »), reconnu par la Commission européenne le 10 juillet 2023, auquel les deux sociétés ont adhéré. Stripe, LLC, société américaine du groupe Stripe, adhère au même cadre pour les données reçues de l'Union européenne.</p>
 
   <h2>Cookies</h2>
-  <p><strong>Sur themixfr.com :</strong> aucun cookie, aucun traceur, aucune mesure d'audience. Le pop-up de la newsletter ne mémorise rien. L'hébergeur, GitHub, enregistre l'adresse IP des visiteurs dans ses journaux techniques, selon sa propre politique de confidentialité ; The Mix n'a pas accès à ces journaux.</p>
+  <p><strong>Sur themixfr.com :</strong> aucun cookie, aucun traceur, aucune mesure d'audience au chargement des pages. Le pop-up de la newsletter ne mémorise rien. Les vidéos YouTube des podcasts ne se chargent que si tu cliques sur lecture ; YouTube dépose alors ses propres cookies. L'hébergeur, GitHub, enregistre l'adresse IP des visiteurs dans ses journaux techniques, selon sa propre politique de confidentialité ; The Mix n'a pas accès à ces journaux.</p>
   <p><strong>Sur app.themixfr.com</strong> (pages Systeme.io) : Systeme.io dépose un cookie nommé « v », qui contient un identifiant unique et dure 10 ans. Systeme.io n'en publie pas la finalité.</p>
 
   <h2>Tes droits</h2>
