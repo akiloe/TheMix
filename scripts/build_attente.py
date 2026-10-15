@@ -148,7 +148,8 @@ dialog::backdrop{{background:rgba(13,13,13,.55)}}
 {items}
     </ul>
   </nav>
-  <footer>Vinsaki SAS · <a href="mailto:contact@themixfr.com">contact@themixfr.com</a></footer>
+  <footer>Vinsaki SAS · <a href="mailto:contact@themixfr.com">contact@themixfr.com</a><br>
+    <a href="/mentions-legales/">Mentions légales</a> · <a href="/confidentialite/">Confidentialité</a></footer>
 </main>
 <dialog id="nl" aria-labelledby="nl-titre">
   <div class="box" tabindex="-1" autofocus>

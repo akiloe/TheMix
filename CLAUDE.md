@@ -7,10 +7,11 @@
   - `index.html` : page autonome (polices et logo intégrés en base64). Seule exception aux appels externes : le formulaire d'inscription à la newsletter et son pop-up, fournis par Systeme.io (script collé tel quel), ajoutés ou modifiés uniquement avec l'accord explicite d'Akil. Aucun autre appel externe, aucun traceur. Si ce script dépose un cookie soumis à consentement, il ne se charge qu'après acceptation, via un bandeau validé par Akil.
     Pop-up newsletter actuel (choix d'Akil du 15/10/2026) : fenêtre maison (`<dialog>`), sans script externe ni stockage, qui renvoie vers la page d'inscription `https://app.themixfr.com/newsletter` ; ouverture une fois par chargement de page après 10 s, et au clic sur le bouton « Newsletter ».
   - `assets/` : polices (avec leurs licences SIL OFL) et fond, copiés par `build_attente.py`. Les pages Systeme.io d'`app.themixfr.com` les chargent depuis themixfr.com : ne pas les supprimer ni les renommer.
+  - `mentions-legales/` et `confidentialite/` : pages légales générées par `scripts/build_legal.py` (polices et fond chargés depuis `/assets/`, aucun appel externe). Les informations manquantes sont écrites `[[…]]` dans le script ; on ne pousse pas sur `main` tant que le script signale des points à compléter.
   - `CNAME` : `themixfr.com`. Ne pas le modifier ni le supprimer, sinon le domaine se détache.
   - `.nojekyll` : désactive Jekyll. Ne pas le supprimer.
 - `CLAUDE.md` : ce fichier, hors du site publié.
-- `scripts/` : `compose_fond.py` (compose le fond) et `build_attente.py` (génère `docs/index.html`). Hors du site publié.
+- `scripts/` : `compose_fond.py` (compose le fond), `build_attente.py` (génère `docs/index.html` et `docs/assets/`) et `build_legal.py` (génère les pages légales). Hors du site publié.
 - `sources/` : ce que les scripts intègrent à la page. Hors du site publié, mais lisible par tous (dépôt public).
   - `fonts/` : polices woff2 et leurs licences SIL OFL.
   - `logo/` : logo noir (PNG transparent).
