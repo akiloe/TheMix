@@ -144,8 +144,8 @@
         "date": "2026-10-26",
         "auteur": "La rédaction de The Mix",
         "chapo": "Il a fait ses classes dans le rap, il dit avoir passé la barre des 150 certifications, et c’est lui qui a mixé le single de Céline Dion sorti cet été. Jérémie Tuil raconte sa méthode : tout à la main, des machines partout, et une règle qui ne bouge pas.",
-        "image": null,
-        "image_alt": "",
+        "image": "jeremie-tuil-portrait.webp",
+        "image_alt": "Portrait de Jérémie Tuil, en noir et blanc",
         "corps": [
           {
             "type": "p",
@@ -279,8 +279,10 @@
         ],
         "credits": [
           "Céline Dion, « Bonjour, pardon, merci » (2026) : paroles et musique Ycare, musique et production Renaud Rebillaud, mix et mix immersif Jérémie Tuil (crédits Tidal et Muso.ai).",
-          "Propos de Jérémie Tuil recueillis par The Mix, relus par lui."
-        ]
+          "Propos de Jérémie Tuil recueillis par The Mix, relus par lui.",
+          "Photo : [photographe à renseigner]"
+        ],
+        "image_note": "Recadrée dans un ancien post The Mix (600 × 400 px) ; photographe à renseigner ; original HD à demander à Jérémie. Choix d'Akil du 26/10/2026."
       },
       {
         "exemple": true,
