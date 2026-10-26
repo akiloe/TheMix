@@ -136,6 +136,153 @@
     "titre_section": "Articles",
     "liste": [
       {
+        "a_valider": true,
+        "slug": "jeremie-tuil-du-rap-a-celine-dion",
+        "rubrique": "Le son de…",
+        "titre": "Jérémie Tuil, du rap à Céline Dion",
+        "titre_pill": "Céline Dion",
+        "date": "2026-10-26",
+        "auteur": "La rédaction de The Mix",
+        "chapo": "Il a fait ses classes dans le rap, il dit avoir passé la barre des 150 certifications, et c’est lui qui a mixé le single de Céline Dion sorti cet été. Jérémie Tuil raconte sa méthode : tout à la main, des machines partout, et une règle qui ne bouge pas.",
+        "image": null,
+        "image_alt": "",
+        "corps": [
+          {
+            "type": "p",
+            "texte": "« Bonjour, pardon, merci », le single que Céline Dion a sorti le 3 juillet, est écrit par Ycare et produit par Renaud Rebillaud. Au mix, en stéréo comme en version immersive : Jérémie Tuil. Son nom ne te dit peut-être rien, mais tu as forcément entendu son travail : Gims, Vitaa et Slimane, Kendji, Vianney, et côté rap MHD ou Rim’K avec Ninho."
+          },
+          {
+            "type": "h2",
+            "texte": "Des répètes au studio Coppélia"
+          },
+          {
+            "type": "p",
+            "texte": "Musicien dans sa jeunesse, il s’oriente très tôt vers l’ingénierie du son en répétant avec ses amis. Faute de moyens pour faire des études, c’est une amie qui l’envoie vers le studio Coppélia. Il y entre comme stagiaire pendant un an et demi, devient assistant puis responsable du studio en trois ou quatre ans, et se forme en autodidacte auprès de plusieurs mentors reconnus de l’époque. Il y restera sept ans."
+          },
+          {
+            "type": "h2",
+            "texte": "Météore, puis la rencontre qui change tout"
+          },
+          {
+            "type": "p",
+            "texte": "Après un an en freelance, il ouvre le studio Météore, à Marseille, qu’il développe pendant six ans. Plusieurs ingés y apprennent le métier à ses côtés, comme MixedByRemy ou Fanny Pisonero. Puis il rencontre Renaud Rebillaud, compositeur et producteur qu’on retrouve chez Kendji, Vitaa et Slimane ou Louane."
+          },
+          {
+            "type": "citation",
+            "texte": "Cette rencontre a été un tournant dans ma carrière, j’ai beaucoup appris avec lui, c’est un génie. On a essayé un titre pour Black M, et il a kiffé notre workflow, notre philosophie, mais surtout le mix. Derrière, tout s’est enchaîné : Ridsa, Kendji, Gims, Vianney, etc. C’est un peu comme ça que je suis entré dans cette sphère. Ça fait presque dix ans que je mixe ses productions. Aujourd’hui, je dois avoir plus de 150 certifications, et peut-être la moitié sont avec lui.",
+            "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "p",
+            "texte": "Black M, puis Kendji, Vianney et Gims : ces projets le propulsent au plus haut niveau du mixage français. Artisan de la pop, il a sculpté les voix de poids lourds du genre comme Slimane, Vitaa, Amir ou Lara Fabian. « Bonjour, pardon, merci » s’inscrit dans cette histoire : une production de Renaud Rebillaud, mixée par Jérémie Tuil."
+          },
+          {
+            "type": "h2",
+            "texte": "Entendre une chanson, pas des pistes"
+          },
+          {
+            "type": "p",
+            "texte": "Sa règle tient en une phrase, et elle ne dépend ni du temps passé ni du nombre d’allers-retours avec l’artiste."
+          },
+          {
+            "type": "citation",
+            "texte": "Je ne calcule pas le temps passé. Moi, je dois entendre une chanson. Tant que j’entends des pistes et pas un morceau, ce n’est pas prêt. Je mets tout mon cœur, les retouches sont illimitées, et à la fin les artistes sont sûrs d’avoir le mix qu’ils veulent.",
+            "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "p",
+            "texte": "Ce qu’on attend de lui, ce n’est pas de recopier ce qu’il reçoit, mais d’apporter quelque chose."
+          },
+          {
+            "type": "citation",
+            "texte": "Je n’essaie pas de reproduire la map. Je passe du temps en solo pour vérifier les pistes, puis je construis mon plan de mix. Les gens attendent une vraie plus-value de ma part, quelque chose qui surprend. On ne me demande pas de refaire, mais d’amener mon truc.",
+            "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "h2",
+            "texte": "Tout à la main"
+          },
+          {
+            "type": "p",
+            "texte": "Pas d’Ozone, la suite de traitement d’iZotope que beaucoup utilisent pour finaliser un son. Pas de VocAlign, le logiciel qui cale automatiquement les voix les unes sur les autres. Chez lui, chaque réglage se fait à la main, et l’automation (les réglages qui bougent tout au long du morceau) descend parfois jusqu’à la syllabe."
+          },
+          {
+            "type": "citation",
+            "texte": "Tout est fait à la main : pas d’Ozone, pas de VocAlign. S’il y a 15 chœurs, je retune les 15 à la main. J’automatise énormément, parfois à la syllabe près. C’est dans ces petits détails que naît le vrai ressenti. C’est ce niveau d’exigence qui justifie la facture et la valeur d’un vrai mix.",
+            "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "p",
+            "texte": "Une exigence qu’il ne retrouve pas toujours autour de lui."
+          },
+          {
+            "type": "citation",
+            "texte": "Aujourd’hui, le métier se perd parfois. Certains acceptent des mix bâclés ou préfèrent la maquette. Pour moi, ça ne suffit pas. Faut pas seulement penser en technicien, il faut ressentir quelque chose. Une bonne oreille ne s’invente pas, elle se travaille avec le temps.",
+            "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "h2",
+            "texte": "Le meilleur des deux mondes"
+          },
+          {
+            "type": "p",
+            "texte": "Son studio est rempli de machines analogiques, celles qui donnent leur couleur à ses mix. Mais il les pilote depuis son ordinateur, comme des plugins : il garde le son du matériel sans perdre la souplesse du numérique."
+          },
+          {
+            "type": "citation",
+            "texte": "J’utilise énormément de hardware contrôlé par plugin, comme les racks Wes Audio que j’affectionne particulièrement. Ça me permet de pouvoir automatiser, sauvegarder et rouvrir un mix un an après exactement comme je l’avais laissé, tout en utilisant énormément de hardware. C’est important pour moi, dans la recherche du bon son, de bosser avec des machines, et c’est aussi un kiff pour moi. C’est un peu l’upside down du mix : ça me donne un contrôle total, je marie le meilleur des deux mondes.",
+            "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "p",
+            "texte": "En carrière depuis 2002, il travaille sur Pro Tools, avec des enceintes Barefoot Footprint 01, Adam S2 et Genelec 8330 SAM, quatre interfaces Avid I/O et un Prism Orpheus. Ses trois plugins favoris : le Weiss EQ de Softube, l’Oxford Dynamic EQ et le TC Electronic VSS4. Il mixe aussi en Dolby Atmos, le format immersif où le son se place tout autour de l’auditeur."
+          },
+          {
+            "type": "h2",
+            "texte": "Du rap à la variété"
+          },
+          {
+            "type": "citation",
+            "texte": "Je viens du rap. Aujourd’hui, les voix arrivent déjà quasi traitées : tu ouvres un WeTransfer, tu mets play, tout est presque déjà posé. Avant, il fallait traiter chaque élément, les passer dans des machines pour leur donner un caractère différent. On se prenait la tête.",
+            "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "p",
+            "texte": "La variété, elle, demande une autre approche, surtout sur les voix."
+          },
+          {
+            "type": "citation",
+            "texte": "La variété, c’est autre chose. Tu ne peux pas juste poser un autotune : il y a des changements de gamme, de la dynamique vivante. Un mix de Vianney, c’est parfois 100 pistes acoustiques. On cherche que ce soit vivant, puissant, émotionnel. C’est presque un autre métier.",
+            "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "h2",
+            "texte": "France, États-Unis : deux regards sur le mix"
+          },
+          {
+            "type": "citation",
+            "texte": "En France, on catalogue les ingénieurs par style. Aux États-Unis, les plus grands mixent tous les genres avec la même exigence. Le mix y est reconnu comme une vraie valeur artistique. Ici, il reste trop souvent sous-évalué, alors qu’il devrait être reconnu comme une vraie plus-value artistique.",
+            "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "h2",
+            "texte": "L’ingé le plus heureux du monde"
+          },
+          {
+            "type": "p",
+            "texte": "Aujourd’hui, il travaille depuis son studio personnel, entouré de ses machines analogiques. Il se décrit lui-même comme l’ingé le plus heureux du monde : il a trouvé l’équilibre entre des projets qui l’inspirent et des rapports humains avec des artistes et des équipes qu’il suit depuis des années."
+          },
+          {
+            "type": "p",
+            "texte": "Parmi ses certifications : les albums « Ceinture noire » de Gims (triple disque de diamant), « VersuS » de Vitaa et Slimane (double disque de diamant) et « Amigo » de Kendji (triple disque de platine) ; les singles « La Puissance » de MHD, « Air Max » de Rim’K et Ninho et « Hola Señorita » de Gims et Maluma, tous singles de diamant."
+          }
+        ],
+        "credits": [
+          "Céline Dion, « Bonjour, pardon, merci » (2026) : paroles et musique Ycare, musique et production Renaud Rebillaud, mix et mix immersif Jérémie Tuil (crédits Tidal et Muso.ai).",
+          "Propos de Jérémie Tuil recueillis par The Mix, relus par lui."
+        ]
+      },
+      {
         "exemple": true,
         "slug": "exemple-1",
         "rubrique": "Le son de…",
