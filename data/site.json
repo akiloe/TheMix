@@ -137,6 +137,79 @@
     "liste": [
       {
         "a_valider": true,
+        "slug": "audeze-du-garage-aux-studios",
+        "rubrique": "Post marque",
+        "titre": "Du garage californien aux studios du monde entier : l’histoire d’Audeze",
+        "titre_pill": "Audeze",
+        "date": "2026-11-03",
+        "auteur": "La rédaction de The Mix",
+        "chapo": "Un garage en Californie, une première idée d’enceinte qui n’est jamais sortie, puis des casques planaires sur les oreilles de mixeurs comme Manny Marroquin. L’histoire d’Audeze, de 2008 à aujourd’hui.",
+        "image": "audeze-manny-marroquin-mm500.webp",
+        "image_alt": "Manny Marroquin au mix, avec un casque Audeze MM-500",
+        "corps": [
+          {
+            "type": "h2",
+            "texte": "2008, un garage dans le comté d’Orange"
+          },
+          {
+            "type": "p",
+            "texte": "Audeze naît en 2008 dans un garage du comté d’Orange, en Californie. Leur toute première idée ? Une enceinte, qui ne sortira jamais."
+          },
+          {
+            "type": "h2",
+            "texte": "Le planaire"
+          },
+          {
+            "type": "p",
+            "texte": "Leur spécialité, c’est le magnétique planaire. Au lieu d’un cône, une membrane ultra-fine prise entre des aimants, qui bouge d’un seul bloc. Résultat : beaucoup de détail et très peu de distorsion."
+          },
+          {
+            "type": "h2",
+            "texte": "De 2008 à 2026"
+          },
+          {
+            "type": "p",
+            "texte": "2008 : le LCD-1, premier casque de la marque, à 600 dollars, en 25 exemplaires, tous vendus. 2009 : le LCD-2. 2011 : le LCD-3. 2013 : le LCD-X, le casque de studio de la marque, pensé pour trancher au mix. 2022 : le MM-500, co-conçu avec le mixeur Manny Marroquin. 2023 : le rachat par Sony Interactive Entertainment. 2026 : le MM-520, successeur du MM-500, et le LCD-5s."
+          },
+          {
+            "type": "p",
+            "texte": "La plupart des casques sont encore fabriqués à la main en Californie."
+          },
+          {
+            "type": "h2",
+            "texte": "Le MM-500, pensé avec un mixeur"
+          },
+          {
+            "type": "p",
+            "texte": "Manny Marroquin a mixé Kanye West, Post Malone et Bruno Mars. Il est aussi le co-concepteur du MM-500 et le responsable des produits pro chez Audeze."
+          },
+          {
+            "type": "citation",
+            "texte": "Enfin, je peux travailler l’équilibre entre mes 808, mes basses et mes kicks.",
+            "auteur": "Manny Marroquin (citation traduite de l’anglais)"
+          },
+          {
+            "type": "h2",
+            "texte": "Et aujourd’hui ?"
+          },
+          {
+            "type": "p",
+            "texte": "La gamme va du gaming (série Maxwell) au très haut de gamme (LCD-5s). Depuis 2023, Audeze appartient à Sony Interactive Entertainment, la maison de PlayStation."
+          },
+          {
+            "type": "p",
+            "texte": "Casque ou enceintes : chacun a sa méthode pour mixer. Et toi, tu mixes au casque ou sur enceintes ?"
+          }
+        ],
+        "credits": [
+          "Sources : eCoustics, CB Insights, Woodbrass, MusicRadar (citation et rôle de Manny Marroquin), hifi.fan.",
+          "Citation de Manny Marroquin traduite de l’anglais (MusicRadar).",
+          "Image : Audeze, miniature de la vidéo YouTube « Manny Marroquin on the MM-500 Headphone »."
+        ],
+        "image_note": "Miniature YouTube publiée par Audeze, recadrée en 1080 × 720. Choix de Claude du 03/11/2026, à valider par Akil."
+      },
+      {
+        "a_valider": true,
         "slug": "jeremie-tuil-du-rap-a-celine-dion",
         "rubrique": "Le son de…",
         "titre": "Jérémie Tuil, du rap à Céline Dion",
