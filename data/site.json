@@ -136,7 +136,6 @@
     "titre_section": "Articles",
     "liste": [
       {
-        "a_valider": true,
         "slug": "audeze-du-garage-aux-studios",
         "rubrique": "Post marque",
         "titre": "Du garage californien aux studios du monde entier : l’histoire d’Audeze",
@@ -206,7 +205,7 @@
           "Citation de Manny Marroquin traduite de l’anglais (MusicRadar).",
           "Image : Audeze, miniature de la vidéo YouTube « Manny Marroquin on the MM-500 Headphone »."
         ],
-        "image_note": "Miniature YouTube publiée par Audeze, recadrée en 1080 × 720. Choix de Claude du 03/11/2026, à valider par Akil."
+        "image_note": "Miniature YouTube publiée par Audeze, recadrée en 1080 × 720. Validée par Akil le 03/11/2026."
       },
       {
         "a_valider": true,
