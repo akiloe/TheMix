@@ -159,6 +159,10 @@ a.cta:not([href]){cursor:default}
 .chapo{margin:20px 0 0;font-size:clamp(20px,2.1vw,26px);line-height:1.4;font-weight:600;color:var(--ink);max-width:40ch}
 .art-img{margin:clamp(28px,4vw,48px) 0 0}
 .art-img img{border-radius:20px}
+.art-fig{margin:32px 0}
+.art-fig img{width:100%;border-radius:20px}
+.art-fig figcaption{margin-top:10px;font-size:15px;line-height:1.45}
+.art-fig .cr{color:var(--text)}
 .art-body{max-width:38em;margin-top:clamp(28px,4vw,48px)}
 .art-body p{font-size:18px;line-height:1.65;margin:0 0 20px}
 .art-body h2.t{font-size:clamp(32px,3.6vw,48px);margin:40px 0 12px}

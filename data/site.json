@@ -148,6 +148,14 @@
         "image_alt": "Page principale d’Elevate : limiteur, transient emphasis et spectral clipper",
         "corps": [
           {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "elevate-frederic-nlandu-studio.webp",
+            "alt": "Frédéric Nlandu en studio",
+            "legende": "Frédéric Nlandu.",
+            "credit": "Photo : @lou.louve pour The Backpackerz (2019)."
+          },
+          {
             "type": "h2",
             "texte": "Interaction et workflow"
           },
@@ -156,8 +164,24 @@
             "texte": "Elevate combine limiteur, maximizer, transient shaper spectral adaptatif et clipper. Le traitement est réparti sur jusqu’à 26 bandes de fréquences, chacune étant pilotée dynamiquement. Pour un son propre, précis, très moderne sans coloration particulière."
           },
           {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "elevate-modules.webp",
+            "alt": "Les modules d’Elevate : limiteur, transient emphasis et spectral clipper",
+            "legende": "Les modules d’Elevate : limiteur, transient emphasis, spectral clipper.",
+            "credit": "Capture : The Mix."
+          },
+          {
             "type": "p",
             "texte": "Une interface claire et intuitive, avec une belle courbe de progression pour exploiter le plugin à 100 %."
+          },
+          {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "elevate-banc-de-filtres.webp",
+            "alt": "Le banc de filtres d’Elevate",
+            "legende": "Le banc de filtres d’Elevate, jusqu’à 26 bandes.",
+            "credit": "Capture : The Mix."
           },
           {
             "type": "h2",
@@ -168,6 +192,14 @@
             "texte": "Une consommation CPU forcément plus importante que celle d’un limiteur classique, due au nombre de possibilités qu’il offre. Génération d’une légère latence facilement gérable sur un bus master ou dans un contexte de mastering. Malgré tout, il reste extrêmement stable."
           },
           {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "elevate-gain-par-bande.webp",
+            "alt": "Le gain appliqué bande par bande dans Elevate",
+            "legende": "Le gain, bande par bande.",
+            "credit": "Capture : The Mix."
+          },
+          {
             "type": "h2",
             "texte": "Cas d’usage et rapport qualité-prix"
           },
@@ -176,12 +208,36 @@
             "texte": "Utilisation sur le bus master pour gagner en loudness sans écraser excessivement les transitoires. Idéal pour les mix modernes nécessitant impact et clarté (hip-hop, électro, pop…)."
           },
           {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "elevate-transient-emphasis.webp",
+            "alt": "Le module Transient Emphasis d’Elevate, bande par bande",
+            "legende": "Transient Emphasis, bande par bande.",
+            "credit": "Capture : The Mix."
+          },
+          {
             "type": "p",
             "texte": "Très bon rapport qualité-prix : le bundle Elevate Mastering est à 199 $ et comprend Elevate (Mastering Limiter), Saturate (Spectral Clipper), EQuivocate (Human Ear EQ) et Punctuate (Intelligent Transient Designer)."
           },
           {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "elevate-bundle-mastering.webp",
+            "alt": "Les quatre plugins du bundle Elevate Mastering",
+            "legende": "Le bundle Elevate Mastering : Elevate, Saturate, EQuivocate et Punctuate.",
+            "credit": "Visuel : Eventide."
+          },
+          {
             "type": "h2",
             "texte": "Le point de vue de l’ingé"
+          },
+          {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "elevate-frederic-nlandu-gros-plan.webp",
+            "alt": "Frédéric Nlandu en gros plan",
+            "legende": "Frédéric Nlandu.",
+            "credit": "Photo : [crédit à renseigner]."
           },
           {
             "type": "citation",
@@ -208,7 +264,8 @@
         "credits": [
           "Test et avis : Frédéric Nlandu.",
           "Prix relevé le 3 novembre 2026 sur le site de Newfangled Audio.",
-          "Image : capture d’Elevate par The Mix.",
+          "Images : captures d’Elevate par The Mix ; visuel du bundle Elevate Mastering par Eventide.",
+          "Photos de Frédéric Nlandu : @lou.louve pour The Backpackerz (2019) ; gros plan, [crédit à renseigner].",
           "Collaboration commerciale : licences Elevate offertes à The Mix."
         ],
         "image_note": "Capture de la page principale d’Elevate par The Mix, recadrée en 1080 × 720."
@@ -233,6 +290,14 @@
             "texte": "Audeze naît en 2008 dans un garage du comté d’Orange, en Californie. Leur toute première idée ? Une enceinte, qui ne sortira jamais."
           },
           {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "audeze-sankar-thiagasamudram.webp",
+            "alt": "Sankar Thiagasamudram devant le logo Audeze",
+            "legende": "Sankar Thiagasamudram, cofondateur et PDG d’Audeze.",
+            "credit": "Image : Android Headlines (miniature YouTube)."
+          },
+          {
             "type": "h2",
             "texte": "Le planaire"
           },
@@ -241,12 +306,28 @@
             "texte": "Leur spécialité, c’est le magnétique planaire. Au lieu d’un cône, une membrane ultra-fine prise entre des aimants, qui bouge d’un seul bloc. Résultat : beaucoup de détail et très peu de distorsion."
           },
           {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "audeze-transducteur-planaire.webp",
+            "alt": "Vue éclatée d’un transducteur planaire Audeze",
+            "legende": "Les pièces d’un transducteur planaire Audeze, ici celui du Maxwell 2.",
+            "credit": "Image : Audeze (miniature YouTube)."
+          },
+          {
             "type": "h2",
             "texte": "De 2008 à 2026"
           },
           {
             "type": "p",
             "texte": "2008 : le LCD-1, premier casque de la marque, à 600 dollars, en 25 exemplaires, tous vendus. 2009 : le LCD-2. 2011 : le LCD-3. 2013 : le LCD-X, le casque de studio de la marque, pensé pour trancher au mix. 2022 : le MM-500, co-conçu avec le mixeur Manny Marroquin. 2023 : le rachat par Sony Interactive Entertainment. 2026 : le MM-520, successeur du MM-500, et le LCD-5s."
+          },
+          {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "audeze-lcd-x.webp",
+            "alt": "Un casque Audeze LCD-X",
+            "legende": "Le LCD-X, le casque de studio de la marque.",
+            "credit": "Photo : @audeze_official."
           },
           {
             "type": "p",
@@ -266,12 +347,28 @@
             "auteur": "Manny Marroquin (citation traduite de l’anglais)"
           },
           {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "audeze-mm-500.webp",
+            "alt": "Alex Parker tient un casque MM-500 devant ses yeux",
+            "legende": "Le MM-500, ici entre les mains du producteur Alex Parker (Alexandra Stan, Morandi, Victor Ray).",
+            "credit": "Photo : @audeze_official."
+          },
+          {
             "type": "h2",
             "texte": "Et aujourd’hui ?"
           },
           {
             "type": "p",
             "texte": "La gamme va du gaming (série Maxwell) au très haut de gamme (LCD-5s). Depuis 2023, Audeze appartient à Sony Interactive Entertainment, la maison de PlayStation."
+          },
+          {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "audeze-maxwell-2.webp",
+            "alt": "Le casque Audeze Maxwell 2",
+            "legende": "Le Maxwell 2, côté gaming.",
+            "credit": "Image : Audeze (miniature YouTube)."
           },
           {
             "type": "p",
@@ -281,7 +378,8 @@
         "credits": [
           "Sources : eCoustics, CB Insights, Woodbrass, MusicRadar (citation et rôle de Manny Marroquin), hifi.fan.",
           "Citation de Manny Marroquin traduite de l’anglais (MusicRadar).",
-          "Image : Audeze, miniature de la vidéo YouTube « Manny Marroquin on the MM-500 Headphone »."
+          "Image : Audeze, miniature de la vidéo YouTube « Manny Marroquin on the MM-500 Headphone ».",
+          "Autres images : Android Headlines (miniature YouTube, Sankar Thiagasamudram) ; Audeze (miniatures YouTube « Meet Maxwell 2 » et « Maxwell 2 ANC is here ») ; @audeze_official sur Instagram (LCD-X ; MM-500 avec Alex Parker)."
         ],
         "image_note": "Miniature YouTube publiée par Audeze, recadrée en 1080 × 720. Validée par Akil le 03/11/2026."
       },

@@ -401,11 +401,19 @@ def bloc(b):
     if b["type"] == "citation":
         aut = f'<figcaption>{t(b["auteur"])}</figcaption>' if b.get("auteur") else ""
         return f'<figure class="quote"><blockquote><p>{t(b["texte"])}</p></blockquote>{aut}</figure>'
+    if b["type"] == "image":
+        # Photo ou capture dans le corps d'un article (demande d'Akil du 04/11/2026) :
+        # fichier dans docs/apercu/img/, légende facultative, crédit obligatoire.
+        w, h = img_size(b["fichier"])
+        cr = f' <span class="cr">{t(b["credit"])}</span>'
+        cap = f'<figcaption>{t(b.get("legende", ""))}{cr}</figcaption>'
+        return (f'<figure class="art-fig"><img src="{BASE}img/{a(b["fichier"])}" alt="{a(b.get("alt", ""))}" '
+                f'width="{w}" height="{h}" loading="lazy" decoding="async">{cap}</figure>')
     raise ValueError(f"bloc inconnu : {b['type']}")
 
 
 def build_article(x):
-    n = mots(x["titre"], x["chapo"], *[b["texte"] for b in x["corps"]])
+    n = mots(x["titre"], x["chapo"], *[b.get("texte", "") for b in x["corps"]])
     lecture = max(1, math.ceil(n / 230))
     visu = (f'<img src="{BASE}img/{a(x["image"])}" alt="{a(x.get("image_alt", ""))}" width="{img_size(x["image"])[0]}" height="{img_size(x["image"])[1]}">'
             if x.get("image") else placeholder("Image à fournir", "r-169"))
@@ -603,6 +611,10 @@ a.cta:not([href]){cursor:default}
 .chapo{margin:20px 0 0;font-size:clamp(20px,2.1vw,26px);line-height:1.4;font-weight:600;color:var(--ink);max-width:40ch}
 .art-img{margin:clamp(28px,4vw,48px) 0 0}
 .art-img img{border-radius:20px}
+.art-fig{margin:32px 0}
+.art-fig img{width:100%;border-radius:20px}
+.art-fig figcaption{margin-top:10px;font-size:15px;line-height:1.45}
+.art-fig .cr{color:var(--text)}
 .art-body{max-width:38em;margin-top:clamp(28px,4vw,48px)}
 .art-body p{font-size:18px;line-height:1.65;margin:0 0 20px}
 .art-body h2.t{font-size:clamp(32px,3.6vw,48px);margin:40px 0 12px}
