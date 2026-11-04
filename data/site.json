@@ -149,7 +149,6 @@
         "corps": [
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "elevate-frederic-nlandu-studio.webp",
             "alt": "Frédéric Nlandu en studio",
             "legende": "Frédéric Nlandu.",
@@ -165,7 +164,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "elevate-modules.webp",
             "alt": "Les modules d’Elevate : limiteur, transient emphasis et spectral clipper",
             "legende": "Les modules d’Elevate : limiteur, transient emphasis, spectral clipper.",
@@ -177,7 +175,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "elevate-banc-de-filtres.webp",
             "alt": "Le banc de filtres d’Elevate",
             "legende": "Le banc de filtres d’Elevate, jusqu’à 26 bandes.",
@@ -193,7 +190,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "elevate-gain-par-bande.webp",
             "alt": "Le gain appliqué bande par bande dans Elevate",
             "legende": "Le gain, bande par bande.",
@@ -209,7 +205,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "elevate-transient-emphasis.webp",
             "alt": "Le module Transient Emphasis d’Elevate, bande par bande",
             "legende": "Transient Emphasis, bande par bande.",
@@ -221,7 +216,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "elevate-bundle-mastering.webp",
             "alt": "Les quatre plugins du bundle Elevate Mastering",
             "legende": "Le bundle Elevate Mastering : Elevate, Saturate, EQuivocate et Punctuate.",
@@ -233,7 +227,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "elevate-frederic-nlandu-gros-plan.webp",
             "alt": "Frédéric Nlandu en gros plan",
             "legende": "Frédéric Nlandu.",
@@ -291,7 +284,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "audeze-sankar-thiagasamudram.webp",
             "alt": "Sankar Thiagasamudram devant le logo Audeze",
             "legende": "Sankar Thiagasamudram, cofondateur et PDG d’Audeze.",
@@ -307,7 +299,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "audeze-transducteur-planaire.webp",
             "alt": "Vue éclatée d’un transducteur planaire Audeze",
             "legende": "Les pièces d’un transducteur planaire Audeze, ici celui du Maxwell 2.",
@@ -323,7 +314,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "audeze-lcd-x.webp",
             "alt": "Un casque Audeze LCD-X",
             "legende": "Le LCD-X, le casque de studio de la marque.",
@@ -348,7 +338,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "audeze-mm-500.webp",
             "alt": "Alex Parker tient un casque MM-500 devant ses yeux",
             "legende": "Le MM-500, ici entre les mains du producteur Alex Parker (Alexandra Stan, Morandi, Victor Ray).",
@@ -364,7 +353,6 @@
           },
           {
             "type": "image",
-            "a_valider": true,
             "fichier": "audeze-maxwell-2.webp",
             "alt": "Le casque Audeze Maxwell 2",
             "legende": "Le Maxwell 2, côté gaming.",
@@ -447,6 +435,15 @@
             "auteur": "Jérémie Tuil"
           },
           {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "illustration-rack-analogique.webp",
+            "alt": "Rack de machines de traitement analogiques",
+            "legende": "Illustration : un rack de machines analogiques (studio Choking Sun).",
+            "credit": "Photo : choking sun (Flickr), CC BY 2.0, via Wikimedia Commons, recadrée.",
+            "lien": "https://commons.wikimedia.org/wiki/File:Audio_signal_processor_rack_2,_Choking_Sun_Studio.jpg"
+          },
+          {
             "type": "h2",
             "texte": "Tout à la main"
           },
@@ -467,6 +464,15 @@
             "type": "citation",
             "texte": "Aujourd’hui, le métier se perd parfois. Certains acceptent des mix bâclés ou préfèrent la maquette. Pour moi, ça ne suffit pas. Faut pas seulement penser en technicien, il faut ressentir quelque chose. Une bonne oreille ne s’invente pas, elle se travaille avec le temps.",
             "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "illustration-console-adt.webp",
+            "alt": "Gros plan sur les potentiomètres d’une console de mixage ADT",
+            "legende": "Illustration : une console de mixage ADT.",
+            "credit": "Photo : Prof. Pod, CC BY-SA 4.0, via Wikimedia Commons.",
+            "lien": "https://commons.wikimedia.org/wiki/File:ADT_Mixing_Console.jpg"
           },
           {
             "type": "h2",
@@ -504,6 +510,15 @@
             "auteur": "Jérémie Tuil"
           },
           {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "vianney-2015.webp",
+            "alt": "Vianney chante en s’accompagnant à la guitare",
+            "legende": "Vianney en 2015.",
+            "credit": "Photo : Patrick Subotkiewiez, CC BY 2.0, via Wikimedia Commons, recadrée.",
+            "lien": "https://commons.wikimedia.org/wiki/File:Vianney_chanteur_2015.jpg"
+          },
+          {
             "type": "h2",
             "texte": "France, États-Unis : deux regards sur le mix"
           },
@@ -511,6 +526,15 @@
             "type": "citation",
             "texte": "En France, on catalogue les ingénieurs par style. Aux États-Unis, les plus grands mixent tous les genres avec la même exigence. Le mix y est reconnu comme une vraie valeur artistique. Ici, il reste trop souvent sous-évalué, alors qu’il devrait être reconnu comme une vraie plus-value artistique.",
             "auteur": "Jérémie Tuil"
+          },
+          {
+            "type": "image",
+            "a_valider": true,
+            "fichier": "illustration-console-neve-5088.webp",
+            "alt": "Mains sur une console Rupert Neve Designs 5088",
+            "legende": "Illustration : une console Rupert Neve Designs 5088 au studio Jackpot!, à Portland (États-Unis).",
+            "credit": "Photo : VACANT FEVER, CC BY-SA 2.0, via Wikimedia Commons.",
+            "lien": "https://commons.wikimedia.org/wiki/File:Larry_Crane_mixing_on_Rupert_Neve_Designs_5088_console,_Jackpot!_Recording_Studio_(Portland,_Oregon).jpg"
           },
           {
             "type": "h2",
@@ -528,7 +552,8 @@
         "credits": [
           "Céline Dion, « Bonjour, pardon, merci » (2026) : paroles et musique Ycare, musique et production Renaud Rebillaud, mix et mix immersif Jérémie Tuil (crédits Tidal et Muso.ai).",
           "Propos de Jérémie Tuil recueillis par The Mix, relus par lui.",
-          "Photo : [photographe à renseigner]"
+          "Portrait de Jérémie Tuil : [photographe à renseigner].",
+          "Photos d’illustration et de Vianney : Wikimedia Commons, auteur et licence sous chaque image."
         ],
         "image_note": "Recadrée dans un ancien post The Mix (600 × 400 px) ; photographe à renseigner ; original HD à demander à Jérémie. Choix d'Akil du 26/10/2026."
       },

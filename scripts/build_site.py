@@ -405,7 +405,10 @@ def bloc(b):
         # Photo ou capture dans le corps d'un article (demande d'Akil du 04/11/2026) :
         # fichier dans docs/apercu/img/, légende facultative, crédit obligatoire.
         w, h = img_size(b["fichier"])
-        cr = f' <span class="cr">{t(b["credit"])}</span>'
+        cr = t(b["credit"])
+        if b.get("lien"):  # page de la source (Wikimedia Commons : auteur et licence)
+            cr = f'<a href="{a(b["lien"])}" rel="noopener">{cr}</a>'
+        cr = f' <span class="cr">{cr}</span>'
         cap = f'<figcaption>{t(b.get("legende", ""))}{cr}</figcaption>'
         return (f'<figure class="art-fig"><img src="{BASE}img/{a(b["fichier"])}" alt="{a(b.get("alt", ""))}" '
                 f'width="{w}" height="{h}" loading="lazy" decoding="async">{cap}</figure>')
