@@ -136,6 +136,84 @@
     "titre_section": "Articles",
     "liste": [
       {
+        "a_valider": true,
+        "slug": "test-plugin-elevate-frederic-nlandu",
+        "rubrique": "Test plugin",
+        "titre": "Frédéric Nlandu teste Elevate",
+        "titre_pill": "Elevate",
+        "date": "2026-11-04",
+        "auteur": "La rédaction de The Mix",
+        "chapo": "Frédéric Nlandu (Gims, SCH, Nekfeu, Sofiane, Youssoupha…) a testé Elevate, le limiteur de mastering de Newfangled Audio : prise en main, performances, cas d’usage, prix, et son verdict.",
+        "image": "elevate-page-principale.webp",
+        "image_alt": "Page principale d’Elevate : limiteur, transient emphasis et spectral clipper",
+        "corps": [
+          {
+            "type": "h2",
+            "texte": "Interaction et workflow"
+          },
+          {
+            "type": "p",
+            "texte": "Elevate combine limiteur, maximizer, transient shaper spectral adaptatif et clipper. Le traitement est réparti sur jusqu’à 26 bandes de fréquences, chacune étant pilotée dynamiquement. Pour un son propre, précis, très moderne sans coloration particulière."
+          },
+          {
+            "type": "p",
+            "texte": "Une interface claire et intuitive, avec une belle courbe de progression pour exploiter le plugin à 100 %."
+          },
+          {
+            "type": "h2",
+            "texte": "Performance et stabilité"
+          },
+          {
+            "type": "p",
+            "texte": "Une consommation CPU forcément plus importante que celle d’un limiteur classique, due au nombre de possibilités qu’il offre. Génération d’une légère latence facilement gérable sur un bus master ou dans un contexte de mastering. Malgré tout, il reste extrêmement stable."
+          },
+          {
+            "type": "h2",
+            "texte": "Cas d’usage et rapport qualité-prix"
+          },
+          {
+            "type": "p",
+            "texte": "Utilisation sur le bus master pour gagner en loudness sans écraser excessivement les transitoires. Idéal pour les mix modernes nécessitant impact et clarté (hip-hop, électro, pop…)."
+          },
+          {
+            "type": "p",
+            "texte": "Très bon rapport qualité-prix : le bundle Elevate Mastering est à 199 $ et comprend Elevate (Mastering Limiter), Saturate (Spectral Clipper), EQuivocate (Human Ear EQ) et Punctuate (Intelligent Transient Designer)."
+          },
+          {
+            "type": "h2",
+            "texte": "Le point de vue de l’ingé"
+          },
+          {
+            "type": "citation",
+            "texte": "Je le recommande dans les contextes où l’on a besoin de loudness sans sacrifier la clarté et la précision. Le contrôle indépendant par bandes de fréquences des transitoires est un vrai plus face aux limiteurs traditionnels. La flexibilité est remarquable : on peut rester très transparent ou au contraire aller vers un traitement plus agressif et moderne.",
+            "auteur": "Frédéric Nlandu"
+          },
+          {
+            "type": "h2",
+            "texte": "Points forts"
+          },
+          {
+            "type": "p",
+            "texte": "Gestion ultra-précise des transitoires. Traitement intelligent adaptatif. Presets bien conçus et constituant d’excellents points de départ selon le style musical (EDM, hip-hop, pop, orchestral)."
+          },
+          {
+            "type": "h2",
+            "texte": "Points faibles"
+          },
+          {
+            "type": "p",
+            "texte": "Consommation CPU relativement élevée si on utilise le maximum de bandes (26) et le mode « Adaptive ». Nécessite un temps d’apprentissage pour tirer le maximum de toutes les fonctionnalités. Pas vraiment un point faible, mais absence de paramètre « analog » pour colorer un peu."
+          }
+        ],
+        "credits": [
+          "Test et avis : Frédéric Nlandu.",
+          "Prix relevé le 3 novembre 2026 sur le site de Newfangled Audio.",
+          "Image : capture d’Elevate par The Mix.",
+          "Collaboration commerciale : licences Elevate offertes à The Mix."
+        ],
+        "image_note": "Capture de la page principale d’Elevate par The Mix, recadrée en 1080 × 720."
+      },
+      {
         "slug": "audeze-du-garage-aux-studios",
         "rubrique": "Post marque",
         "titre": "Du garage californien aux studios du monde entier : l’histoire d’Audeze",
