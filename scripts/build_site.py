@@ -376,7 +376,7 @@ def equipe():
 
 # ---------- pages ----------
 def build_home():
-    body = hero() + evenement() + formations() + newsletter() + articles_home() + podcasts() + equipe()
+    body = hero() + formations() + newsletter() + evenement() + articles_home() + podcasts() + equipe()
     return page("The Mix : le média du son (aperçu)", D["entete"]["phrase"], body, home=True)
 
 
