@@ -137,6 +137,124 @@
     "liste": [
       {
         "a_valider": true,
+        "slug": "histoire-de-son-la-reverb",
+        "rubrique": "Histoire de son",
+        "titre": "Plate, spring, room : l’histoire de la reverb",
+        "titre_pill": "reverb",
+        "date": "2026-11-06",
+        "auteur": "La rédaction de The Mix",
+        "chapo": "Plate, spring, room : d’où viennent les noms de tes reverbs ? Des salles d’enregistrement aux plugins, en passant par les chambres d’écho, les plaques, les ressorts et la première reverb numérique.",
+        "image": "reverb-abbey-road-studio-1.webp",
+        "image_alt": "Un orchestre en séance d’enregistrement dans le studio 1 d’Abbey Road",
+        "corps": [
+          {
+            "type": "h2",
+            "texte": "Avant : la pièce"
+          },
+          {
+            "type": "p",
+            "texte": "Avant les jolis plugins Valhalla, le son était capté directement dans les salles d’enregistrement, et la reverb dépendait entièrement de l’acoustique et du traitement de la pièce, ce qui limitait grandement le contrôle. Tout devait être parfait d’un coup, à la prise de son."
+          },
+          {
+            "type": "h2",
+            "texte": "Les années 30 : la chambre d’écho"
+          },
+          {
+            "type": "p",
+            "texte": "Dans les années 30 apparaissent les premières chambres d’écho (echo chambers, ou reverb rooms) : une pièce où le son est diffusé, réfléchi, puis capté par des micros, pour être mixé avec la piste originale. D’abord bricolée dans une salle de bain : en 1947, pour « Peg o’ My Heart » des Harmonicats, Bill Putnam, ingénieur du son et fondateur du studio Universal Recording, installe un haut-parleur et un micro dans les toilettes de son studio de Chicago. L’idée est massivement reprise par les grands studios dans les années 50, cette fois sous forme de pièces dédiées, conçues à cet effet."
+          },
+          {
+            "type": "image",
+            "fichier": "reverb-harmonicats.webp",
+            "alt": "Les trois membres des Harmonicats",
+            "legende": "The Harmonicats, interprètes de « Peg o’ My Heart » (1947).",
+            "credit": "Photo : Mercury Records, domaine public, via Wikimedia Commons.",
+            "lien": "https://commons.wikimedia.org/wiki/File:Harmonicats.jpg"
+          },
+          {
+            "type": "h2",
+            "texte": "Fin des années 50 : la plaque"
+          },
+          {
+            "type": "p",
+            "texte": "La fin des années 50 voit apparaître les premières reverbs mécaniques. La plate reverb (reverb à plaque) : un signal audio fait vibrer une plaque métallique grâce à un transducteur. Ces vibrations se propagent sur la plaque, puis sont captées par des micros de contact. Le résultat : un écho dense et lisse, contrôlable en intensité et en durée, sans dépendre d’une pièce réelle. Première commercialisation à grande échelle : l’EMT 140, en 1957."
+          },
+          {
+            "type": "image",
+            "fichier": "reverb-emt-140.webp",
+            "alt": "Une reverb à plaque EMT 140 : la plaque de métal tendue dans son cadre",
+            "legende": "L’EMT 140.",
+            "credit": "Photo : EMT-Archiv-Lahr, CC BY-SA 4.0, via Wikimedia Commons.",
+            "lien": "https://commons.wikimedia.org/wiki/File:EMT_140.jpg"
+          },
+          {
+            "type": "h2",
+            "texte": "Le ressort"
+          },
+          {
+            "type": "p",
+            "texte": "La spring reverb (reverb à ressort) a d’abord été inventée pour les orgues Hammond, avant de devenir un système à part entière, entre la fin des années 50 et le début des années 60. Même principe qu’avec la plaque, mais en faisant vibrer des ressorts : on obtient un son plus brillant et plus fin."
+          },
+          {
+            "type": "image",
+            "fichier": "reverb-ressort.webp",
+            "alt": "Une unité de reverb à ressorts, ressorts apparents",
+            "legende": "Une reverb à ressorts.",
+            "credit": "Photo : Ashley Pomeroy, CC BY-SA 4.0, via Wikimedia Commons.",
+            "lien": "https://commons.wikimedia.org/wiki/File:Spring_Reverb_8325.jpg"
+          },
+          {
+            "type": "h2",
+            "texte": "1976 : le numérique"
+          },
+          {
+            "type": "p",
+            "texte": "C’est en 1976 que voit le jour la première reverb numérique commercialisée, l’EMT 250, suivie de près par la légendaire Lexicon 224, sortie en 1978 et encore émulée aujourd’hui. Le principe : transformer le son en données, simuler les échos et les réflexions par le calcul, puis le retransformer en audio, avec profondeur et ambiance."
+          },
+          {
+            "type": "image",
+            "fichier": "reverb-emt-250.webp",
+            "alt": "La reverb numérique EMT 250",
+            "legende": "L’EMT 250.",
+            "credit": "Photo : Peter Bermes, CC BY-SA 4.0, via Wikimedia Commons.",
+            "lien": "https://commons.wikimedia.org/wiki/File:EMT250_Copyright_BermesDesign.jpg"
+          },
+          {
+            "type": "h2",
+            "texte": "Aujourd’hui : les plugins"
+          },
+          {
+            "type": "p",
+            "texte": "De nos jours, les reverbs numériques n’ont plus besoin d’être montées en rack. La plupart des DAW sont vendus avec leurs propres plugins, parmi lesquels on retrouve plate, spring et room. Des entreprises proposent des reproductions numériques de presque toutes les reverbs physiques ayant existé. D’autres plugins, plus étranges, repoussent les limites de la reverb telle qu’on la connaît."
+          },
+          {
+            "type": "image",
+            "fichier": "reverb-waves-abbey-road-chambers.webp",
+            "alt": "Interface du plugin Abbey Road Chambers de Waves",
+            "legende": "Abbey Road Chambers, l’émulation des chambres d’écho d’Abbey Road par Waves.",
+            "credit": "Image : Waves (miniature YouTube)."
+          },
+          {
+            "type": "image",
+            "fichier": "reverb-pulsar-primavera.webp",
+            "alt": "Interface du plugin Primavera de Pulsar Audio",
+            "legende": "Primavera, l’émulation de reverb à ressort de Pulsar Audio.",
+            "credit": "Image : Pulsar Audio (miniature YouTube)."
+          },
+          {
+            "type": "p",
+            "texte": "Et voilà ! La prochaine fois que ton artiste te demandera pourquoi ça s’appelle une plate ou une room, tu sauras lui expliquer d’où ça vient. Et toi, plate, spring ou room ?"
+          }
+        ],
+        "credits": [
+          "Sources : Wikipédia (Reverb effect), Universal Audio (histoire des reverbs EMT), Mix (Lexicon 224).",
+          "Photos : Wikimedia Commons, auteur et licence sous chaque image.",
+          "Images des plugins : Waves et Pulsar Audio, miniatures de leurs vidéos YouTube."
+        ],
+        "image_note": "Photo de Ricky Kej (CC0, Wikimedia Commons) : un orchestre au studio 1 d’Abbey Road, recadrée en 1080 × 720."
+      },
+      {
+        "a_valider": true,
         "slug": "test-plugin-elevate-frederic-nlandu",
         "rubrique": "Test plugin",
         "titre": "Frédéric Nlandu teste Elevate",
