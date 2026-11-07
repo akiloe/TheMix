@@ -136,6 +136,84 @@
     "titre_section": "Articles",
     "liste": [
       {
+        "slug": "le-premier-plugin-de-l-histoire",
+        "rubrique": "Histoire de son",
+        "titre": "Le premier plugin de l’histoire, c’était quoi ?",
+        "titre_pill": "quoi",
+        "date": "2026-11-07",
+        "auteur": "La rédaction de The Mix",
+        "chapo": "Aujourd’hui, t’ouvres ton DAW et t’as des centaines de plugins sous la main. Il y a un peu plus de 30 ans, chaque effet, c’était une machine qui prenait de la place dans le studio. Mais alors, le tout premier plugin, c’était quoi ?",
+        "image": "premier-plugin-urei-1176.webp",
+        "image_alt": "Six compresseurs UREI 1176LN empilés dans un studio",
+        "corps": [
+          {
+            "type": "h2",
+            "texte": "Avant 1992 : tout passe par le matériel"
+          },
+          {
+            "type": "p",
+            "texte": "Avant 1992, le mixage pro nécessitait des racks hardware lourds et coûteux pour l’EQ, la compression, la réverb, etc. Le traitement audio était plus lent, peu flexible, et le rappel des réglages quasi impossible. Les studios étaient limités par le matériel et le temps."
+          },
+          {
+            "type": "image",
+            "fichier": "premier-plugin-manor-regie.webp",
+            "alt": "La régie d’un grand studio : une console de mixage, des enceintes et des racks de machines",
+            "legende": "La régie des Manor Studios, dans l’Oxfordshire.",
+            "credit": "Photo : JacoTen, CC BY-SA 3.0, via Wikimedia Commons.",
+            "lien": "https://commons.wikimedia.org/wiki/File:The_Manor_Studios_Control_Room.jpg"
+          },
+          {
+            "type": "h2",
+            "texte": "1992 : le Waves Q10"
+          },
+          {
+            "type": "p",
+            "texte": "En 1992, Waves lance le Q10 Paragraphic Equalizer sur Pro Tools : le premier plugin audio temps réel commercial. Il exploite les DSP, processeurs spécialisés pour calculer les effets audio en temps réel, réduisant la latence et déchargeant le CPU. Une partie du traitement passe dans l’ordinateur."
+          },
+          {
+            "type": "image",
+            "fichier": "premier-plugin-waves-q10.webp",
+            "alt": "Interface du Q10 Paragraphic Equalizer de Waves : courbe d’égalisation et dix bandes réglables",
+            "legende": "Le Q10 Paragraphic Equalizer, le premier plugin de Waves.",
+            "credit": "Capture : Waves."
+          },
+          {
+            "type": "image",
+            "fichier": "premier-plugin-pro-tools-3-4.webp",
+            "alt": "Interface de Pro Tools 3.4 : fenêtres d’édition et de mixage d’une session de démonstration",
+            "legende": "Pro Tools 3.4.",
+            "credit": "Capture : Digidesign (aujourd’hui Avid)."
+          },
+          {
+            "type": "h2",
+            "texte": "VST, puis RTAS : le home studio"
+          },
+          {
+            "type": "p",
+            "texte": "Le Q10 ouvre la voie aux plugins natifs VST (Steinberg), puis RTAS (format de plugin développé par Digidesign, aujourd’hui Avid Technology). Le VST crée une explosion des éditeurs tiers, une démocratisation du home studio comme on le connaît aujourd’hui, et du mixage logiciel. Le traitement audio professionnel devient accessible au plus grand nombre."
+          },
+          {
+            "type": "image",
+            "fichier": "premier-plugin-home-studio.webp",
+            "alt": "Un petit home studio : ordinateur portable, surface de contrôle, clavier et deux enceintes",
+            "legende": "Un home studio aujourd’hui.",
+            "credit": "Photo : Dejan Krsmanovic, CC BY 2.0, via Wikimedia Commons.",
+            "lien": "https://commons.wikimedia.org/wiki/File:Small_Bedroom_Studio_(46795883802).jpg"
+          },
+          {
+            "type": "p",
+            "texte": "Et toi, c’était quoi ton premier plugin ?"
+          }
+        ],
+        "credits": [
+          "Sources : Waves (À propos), Mix (Waves Q10, 1992), Thomann (histoire des formats de plugins).",
+          "Photo d’ouverture : Ville Hyvönen, CC BY-SA 2.0, via Wikimedia Commons, recadrée.",
+          "Photos du corps : Wikimedia Commons, auteur et licence sous chaque image.",
+          "Captures : Waves Q10 et Pro Tools 3.4."
+        ],
+        "image_note": "Photo de Ville Hyvönen (CC BY-SA 2.0, Wikimedia Commons, File:UREI 1176LN (Silver) x6.jpg) : six UREI 1176LN, recadrée en 1080 × 720, en couleur (règle du site). Article validé par Akil le 07/11/2026."
+      },
+      {
         "a_valider": true,
         "slug": "histoire-de-son-la-reverb",
         "rubrique": "Histoire de son",
