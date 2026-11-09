@@ -136,6 +136,98 @@
     "titre_section": "Articles",
     "liste": [
       {
+        "a_valider": true,
+        "slug": "les-femmes-qui-font-le-son-part-1",
+        "rubrique": "Divers",
+        "titre": "Les femmes qui font le son (part 1)",
+        "titre_pill": "son",
+        "date": "2026-11-09",
+        "auteur": "La rédaction de The Mix",
+        "chapo": "Mix, mastering, gravure vinyle, enregistrement, réalisation : cinq ingénieures du son à connaître.",
+        "image": "femmes-du-son-veronica-ferraro.webp",
+        "image_alt": "Veronica Ferraro en interview, micro-cravate au col",
+        "corps": [
+          {
+            "type": "h2",
+            "texte": "Veronica Ferraro"
+          },
+          {
+            "type": "p",
+            "texte": "Ingénieure mix, à la tête de French Audio Village. Elle a mixé « Perdu d’avance », le premier album d’Orelsan (2009), certifié platine, et « When Love Takes Over » de David Guetta et Kelly Rowland, nommé aux Grammy Awards."
+          },
+          {
+            "type": "h2",
+            "texte": "Marie Pieprzownik"
+          },
+          {
+            "type": "p",
+            "texte": "Ingénieure de mastering et de gravure vinyle. Elle a coupé ses premières laques en 2013 chez Masterlabs, à Dublin, puis a rejoint Translab, à Paris, en 2019."
+          },
+          {
+            "type": "image",
+            "fichier": "femmes-du-son-marie-pieprzownik.webp",
+            "alt": "Marie Pieprzownik face à l’objectif, devant une console de studio",
+            "legende": "Marie Pieprzownik.",
+            "credit": "Photo : [photographe à renseigner]."
+          },
+          {
+            "type": "h2",
+            "texte": "Fanny Pisonero"
+          },
+          {
+            "type": "p",
+            "texte": "Ingénieure rec et mix, installée à Aubagne. Pendant trois ans, elle a été l’ingénieure du son principale du studio G8 Records de SCH, où sont passés Jul, Naps ou Soso Maness. Rohff et SDM ont aussi travaillé avec elle."
+          },
+          {
+            "type": "image",
+            "fichier": "femmes-du-son-fanny-pisonero.webp",
+            "alt": "Fanny Pisonero assise devant une console de mixage, entre des enceintes et un clavier",
+            "legende": "Fanny Pisonero, à la console.",
+            "credit": "Image : Rap’Elles."
+          },
+          {
+            "type": "h2",
+            "texte": "Myriam Eddaïra"
+          },
+          {
+            "type": "p",
+            "texte": "Ingénieure du son et réalisatrice, fondatrice du Studio d’Ikken. Plus de 25 ans dans la musique, à accompagner et développer des artistes."
+          },
+          {
+            "type": "image",
+            "fichier": "femmes-du-son-myriam-eddaira.webp",
+            "alt": "Myriam Eddaïra, souriante, à côté d’un rack de machines et d’un clavier",
+            "legende": "Myriam Eddaïra.",
+            "credit": "Photo : [photographe à renseigner]."
+          },
+          {
+            "type": "h2",
+            "texte": "Bénédicte Schmitt"
+          },
+          {
+            "type": "p",
+            "texte": "Ingénieure du son et réalisatrice artistique, elle co-dirige depuis 25 ans les studios Labomatic, à Paris. Elle a réalisé, enregistré et mixé « Little French Songs » de Carla Bruni (2013), certifié platine."
+          },
+          {
+            "type": "image",
+            "fichier": "femmes-du-son-benedicte-schmitt.webp",
+            "alt": "Bénédicte Schmitt, le bras levé, dans un studio aux murs colorés",
+            "legende": "Bénédicte Schmitt, aux studios Labomatic.",
+            "credit": "Image : Audiofanzine."
+          },
+          {
+            "type": "p",
+            "texte": "Et toi, quelle ingé on a oubliée ?"
+          }
+        ],
+        "credits": [
+          "Sources : Wikipédia (Perdu d’avance, Little French Songs, d’après les crédits des albums ; certifications SNEP), IMDb et Mix (nomination aux Grammy), Nugen Audio (French Audio Village), Women in Vinyl (Marie Pieprzownik), Time Out (Fanny Pisonero), Groover (Studio d’Ikken), Zoom (Bénédicte Schmitt).",
+          "Images : Devenir Ingeson (Veronica Ferraro), Rap’Elles (Fanny Pisonero), Audiofanzine (Bénédicte Schmitt).",
+          "Photos de Marie Pieprzownik et de Myriam Eddaïra : [photographe à renseigner]."
+        ],
+        "image_note": "Image de l’interview de Veronica Ferraro par Devenir Ingeson (version HD fournie par Akil le 09/11/2026), recadrée en 1080 × 720, en couleur. Photos de Marie Pieprzownik et de Myriam Eddaïra en noir et blanc : seules versions disponibles. Article à valider ; autorisations des cinq ingénieures à obtenir avant le lancement."
+      },
+      {
         "slug": "le-premier-plugin-de-l-histoire",
         "rubrique": "Histoire de son",
         "titre": "Le premier plugin de l’histoire, c’était quoi ?",
